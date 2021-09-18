@@ -1,2 +1,2 @@
 # Wim
-Wim virus Original source
+Wim Nitro Generator Original Source (For Discord)
